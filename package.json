@@ -1,0 +1,16 @@
+{
+  "name": "na-streams",
+  "version": "1.0.0",
+  "description": "A practise project backend on the video streaming tech.",
+  "keywords": [
+    "ytclone",
+    "videoStreaming"
+  ],
+  "license": "ISC",
+  "author": "niraj",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
