@@ -70,6 +70,7 @@ userSchema.methods.generateAccessToken = async function () {
     }
   );
 };
+
 userSchema.methods.generateRefreshToken = async function () {
   return (
     jwt.sign(
